@@ -1,0 +1,19 @@
+body {
+font: 'Raleway', sans-serif;
+color: rgba(0,0,0,.5);
+text-align: center;
+text-transform: uppercase;
+letter-spacing: .5em;
+top: 15%;
+background: linear-gradient(to right, red , yellow); /* Standard syntax */
+}
+.title{
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+}
+.colorPanel{
+     align-items: center;
+    display: flex;
+    justify-content: center;
+}
